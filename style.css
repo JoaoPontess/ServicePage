@@ -1,5 +1,7 @@
 body {
     margin: 0;
+
+    font-family: 'Open Sans', sans-serif;
 }
 
 .page {
@@ -13,6 +15,7 @@ justify-content: space-between;
 align-items: center;
 
 margin-bottom: 55px;
+
 }
 
 ul {
@@ -21,4 +24,8 @@ ul {
     list-style: none;
     margin: 0;
     padding: 0;
+}
+
+h1, ul {
+    font-family: 'Mulish', sans-serif;
 }
