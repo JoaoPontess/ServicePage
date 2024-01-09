@@ -1,5 +1,5 @@
 💻 Desafio HTML e CSS
-Nesse desafio, você recebe ao decorrer das aulas recebe um código para desenvolver o projeto da Fase 02.
+Nesse desafio, você recebe ao decorrer das aulas um código para desenvolver o projeto da Fase 02.
 
 E, novamente, mais um desafio concluido com sucesso... 👀
 
